@@ -4,10 +4,22 @@
         <title>倾陌的网站 Blog</title>
         <link>https://shiqingmoya.github.io/blog</link>
         <description>倾陌的网站 Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[nodejs接口]]></title>
+            <link>https://shiqingmoya.github.io/blog/happy</link>
+            <guid>https://shiqingmoya.github.io/blog/happy</guid>
+            <pubDate>Wed, 08 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[nodejs接口中的的res.body，res.params，res.query怎么理解]]></description>
+            <content:encoded><![CDATA[<p>nodejs接口中的的res.body，res.params，res.query怎么理解
+这三种都是用在接口上获取前端传递到后台的参数，只是分别对应的接口类型不同而已，众所周知，接口的类型分为多种，常用的包括：GET，POST，DELET，PUT。
+其中<!-- -->:res<!-- -->.params，res.query常用于GET或者DELETE请求，res.body常用语POST请求。</p>]]></content:encoded>
+            <category>记录</category>
+            <category>文档</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://shiqingmoya.github.io/blog/welcome</link>

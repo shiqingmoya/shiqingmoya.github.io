@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9131],{5301:(e,s,c)=>{c.r(s),c.d(s,{default:()=>d});c(9953);var h=c(2844),i=c(1874);const d=()=>(0,i.jsx)(h.Z,{children:(0,i.jsx)("div",{children:(0,i.jsx)("h1",{children:"\u8fd9\u662f\u6211\u7684\u7b2c\u4e00\u4e2a\u9875\u9762"})})})}}]);
